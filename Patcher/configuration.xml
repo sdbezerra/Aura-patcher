@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<root>
+    <!-- used in form title -->
+    <game_name>Mabinogi</game_name>
+    <!-- launches when play button pressed -->
+    <game_exe>client.exe</game_exe>
+    <!-- opens in default browser when game logo clicked-->
+    <game_url>http://mabinogi.com.br</game_url>
+    <!-- URL of file contains last version of game client-->
+    <check_version_url>http://mabinogi.com.br/launcher/version.txt</check_version_url>
+    <!-- URL of directory contains patched-->
+    <patches_directory>http://mabinogi.com.br/launcher/patches/</patches_directory>
+    <!-- URL with news page-->
+    <news_url>http://mabinogi.com.br/launcher/news_patcher.php</news_url>
+    <!-- opens in default browser when publisher logo clicked-->
+    <publisher_url>http://mabinogi.com.br</publisher_url>
+</root>
